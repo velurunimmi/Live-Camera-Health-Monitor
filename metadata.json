@@ -1,0 +1,6 @@
+{
+  "name": "VitalCam - Live Camera Health Monitor",
+  "description": "Contactless real-time vital signs monitoring via camera rPPG. Monitors heart rate, blood pressure, and blood glucose with live face tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
